@@ -7,17 +7,6 @@
 **Email:** semihsevik7@gmail.com  
 
 
-## Project Name
-Description of your project.
-
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
----
-
 ### Certification
 ![](img/GAIH_TopLearner_Certificate.png)
 
