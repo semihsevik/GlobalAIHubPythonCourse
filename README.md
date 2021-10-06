@@ -4,7 +4,7 @@
 **Course Date:** 05.04.2021  
 **Name:** Semih  
 **Surname:** Şevik  
-**Email:** semihsevik7@gmail.com  
+**Email:** semihsevik@outlook.com.tr  
 
 
 ### Certification
